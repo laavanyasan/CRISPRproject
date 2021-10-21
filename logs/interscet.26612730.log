@@ -1,0 +1,19 @@
+FSHBDENND1A_plus100kb.bed
+    111 ATAC.and.DHS.concat.bed
+    111 ATACandDHS.sorted.bed
+    110 ATACandDHS.sorted.merged.bed
+ 103467 COV434.H295R.unionATACpeak.bed
+     55 FSHBDENND1A_ATAC_forgRNAdesign_100kb.bed
+   1975 FSHBDENND1A_DHS_forgRNAdesign_100kb.bed
+   1907 FSHBDENND1A_DHS_forgRNAdesign_50kb.bed
+      2 FSHBDENND1A_plus100kb.bed
+      2 FSHBDENND1A_plus50kb.bed
+ 103467 H295R_COV434.ATACseq.UnionPeakSet.narrowPeak
+      0 logs
+     55 oldatacgeneregions.bed
+      7 regionsinstersect.sh
+     56 selectedDHSsites.bed
+     56 selectedDHS.sorted.bed
+     56 selectedDHS.sorted.merged.bed
+    138 Untitled.ipynb
+ 211575 total
